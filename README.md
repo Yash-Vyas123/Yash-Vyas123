@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Yash-Vyas123/Yash-Vyas123/main/github-banner.png" width="100%">
+</p>
 ## 👨‍💻 About Me<br><br>🔭 currently building<br>my portfolio + diving into real-world AI/ML projects 🚀<br><br>👯 open to collab<br>on cool open-source projects & anything AI/tech related<br><br>🤝 need help with<br>leveling up in advanced ML + deploying projects like a pro<br><br>🌱 currently learning<br>AI/ML, DSA grind (800+ problems 💪), and modern web dev<br><br>💬 ask me about<br>Java, DSA, GitHub, or how to stay consistent in coding<br><br>⚡ fun fact<br>MS Learn Student Ambassador 🎯 + organizing tech events & hackathons<br>
 
 
